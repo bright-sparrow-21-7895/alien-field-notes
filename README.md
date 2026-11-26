@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000/bright-sparrow-21-7895/alien-field-notes/rank.svg)](https://make.fun/bounty/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000)
 [![reward](https://make.fun/badge/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000/bright-sparrow-21-7895/alien-field-notes/reward.svg)](https://make.fun/bounty/u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000?utm_source=github&utm_medium=readme&utm_campaign=u-swift-raven-16-alien-field-notes-the-two-day-earth-7647b000)
 
-Alien field notes: a two-day Earth review. Stunning oceans, five stars; the inhabitants pay to sit in traffic. Would abduct again.
+Day two: the humans still pretend the small glowing rectangle is not their leader. We will wait.
 
 ## Run it
 
